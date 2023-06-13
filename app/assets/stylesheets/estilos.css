@@ -1,0 +1,29 @@
+body {
+    background-color: #bbd5ed;
+}
+
+.navbar-custom {
+    background-color: #52528c;
+    ;
+}
+
+h1 {
+    text-align: center;
+    color: #52528c;
+}
+
+.cardbody-custom {
+background-color: #cefdff;
+}
+
+.btn-custom {
+    background-color: #ca2e55;
+}
+/* #ff495c / f9db6d*/
+.text-custombtn{
+    color: #dd99bb;
+}
+
+.text-custom{
+    color: #52528c;
+}
