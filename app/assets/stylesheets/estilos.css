@@ -8,6 +8,8 @@ body {
 }
 
 h1 {
+    font-family: 'Kalam', cursive;
+    padding-top: 20px;
     text-align: center;
     color: #52528c;
 }
@@ -21,9 +23,17 @@ background-color: #cefdff;
 }
 /* #ff495c / f9db6d*/
 .text-custombtn{
+    font-family: 'Lucida Sans';
     color: #dd99bb;
 }
 
 .text-custom{
+    font-family:Helvetica;
     color: #52528c;
+}
+
+.btn-ver-mas{
+    background-color:  #dd99bb ;
+    color:  #ca2e55;
+    margin-bottom: 20px;
 }
